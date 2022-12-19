@@ -1,6 +1,4 @@
-﻿
-
-namespace DepInjContainer
+﻿namespace DepInjContainer
 {
     public enum LivingTime
     {
